@@ -1,7 +1,7 @@
 {
   "qq_number": "3593859791",
   "group_number": "1092257552",
-  "updated_at": "2026-06-18T08:38:21+00:00",
+  "updated_at": "2026-06-18T08:41:37+00:00",
   "skins": [
     {
       "name": "草莓樱花信笺 脆脆音 无漂",
@@ -26,6 +26,12 @@
       "file": "草莓樱花信笺闷闷音无漂.bdi",
       "thumb": "草莓樱花信笺闷闷音无漂.bdi_py_26_light_thumb.png",
       "full": "草莓樱花信笺闷闷音无漂.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "草莓樱花信笺 闷闷音 无漂",
+      "file": "草莓樱花信笺闷闷音无漂.bds",
+      "thumb": "草莓樱花信笺闷闷音无漂.bds_py_26_light_thumb.png",
+      "full": "草莓樱花信笺闷闷音无漂.bds_py_26_light_thumb.png"
     }
   ]
 }
